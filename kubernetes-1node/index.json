@@ -1,5 +1,5 @@
 {
-  "title": "My first scenario",
+  "title": "List all pods",
   "description": "Use a simple one node Kubernetes cluster and let user list all pods",
   "details": {
     "intro": {
@@ -7,7 +7,7 @@
     },
     "steps": [
       {
-        "title": "My first scenario",
+        "title": "List all pods",
         "text": "step1.md"
       }
     ],
